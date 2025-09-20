@@ -1,0 +1,155 @@
+li{
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+nav{
+    background-color: rgb(90, 62, 8);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contato{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(187, 134, 34);
+}
+
+
+.contato h1{
+    color: rgb(187, 134, 34);
+    font-weight: bold;
+}
+.titulo{
+    color: rgb(106, 75, 18);
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.a01{
+    background-color: rgb(219, 185, 121);
+}
+
+.div02{
+    background-image: url(../imagen/taxa.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 100%;
+}
+.b1{
+    font-size: 30px;
+    margin-left: -500;
+    margin-top: 40px;
+}
+.img01{
+    border-radius: 30px;
+}
+.div1{
+    background-color: rgb(236 226 208) ;
+}
+.div2{
+    background-color:rgb(217 197 163) ;
+}
+.div3{
+    background-color:rgb(197 169 117) ;
+}
+.img1{
+    margin-top: 30px;
+}
+.titulo1{
+    margin-top: 20px;
+    color:rgb(134, 109, 63) ;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.subt1{
+    color: rgb(134,109,63);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.titulo2{
+    margin-top: 20px;
+    color:rgb(134, 109, 63) ;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.p1{
+    border-radius: 20px;
+    background-color: rgb(248, 239, 228);
+    width: 400px;
+    height: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.img2{
+    border-radius: 10px;
+    
+}
+.subt2{
+    color: black;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.subt3{
+    color: rgb(207, 206, 204);
+    font-size: 25px;
+    margin-top: 20px;
+}
+.bo1{
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    border: 10px solid rgb(156, 99, 28);
+    background-color: rgb(156, 99, 28);
+    font-size: 20px;
+    margin-top: 30px;
+    display: block;
+    width: fit-content;
+    margin-inline: auto;
+}
+.dive1{
+    background-color: white;
+    border-radius: 20px;
+    padding: 16px;
+    gap:16px;
+
+}
+.botao1{
+    display: block;
+}
+.preto{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.295);
+    z-index: 2;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.preto h1{
+    color: rgb(139, 119, 80);
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.preto h4{
+    margin-top: 30px;
+}
+.preto a{
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.preto:target{
+    display: flex;
+}
+.pe2{
+    flex-wrap: wrap;
+}

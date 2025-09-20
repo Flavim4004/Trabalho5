@@ -1,0 +1,387 @@
+li{
+    display: inline-block;
+    color: white;
+    font-size: 25px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+nav{
+    background-color: rgb(90, 62, 8);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contato{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(187, 134, 34);
+}
+
+
+.contato h1{
+    color: rgb(187, 134, 34);
+    font-weight: bold;
+}
+.titulo{
+    color: rgb(106, 75, 18);
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.a01{
+    background-color: rgb(219, 185, 121);
+}
+
+
+.div02{
+    background-image: url(../imagen/taxa.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 100%;
+}
+.b1{
+    font-size: 30px;
+    margin-left: -500;
+    margin-top: 40px;
+}
+.img01{
+    border-radius: 30px;
+}
+.div1{
+    background-color: rgb(236 226 208) ;
+}
+.div2{
+    background-color:rgb(217 197 163) ;
+}
+.div3{
+    background-color:rgb(197 169 117) ;
+}
+.img1{
+    margin-top: 30px;
+}
+.div4{
+    height: 100%;
+    width: 100%;
+    background-image:url(../imagen/medicos1.png) ;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.div5{
+    background-color:rgb(197 169 117) ;
+}
+.titulo1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.txt1{
+    color: white;
+    font-size: 25px;
+}
+.txt2{
+    color: white;
+    font-size: 25px;
+    margin-top: 40px;
+}
+.bo1{
+    color: white;
+    background-color:rgb(197 169 117) ;
+    border-radius: 10px;
+    border: 4px solid white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.p1{
+    margin-left: 300px;
+}
+.img2{
+    border-radius: 30px;
+    margin-top: 20px ;
+    margin-bottom: 20px;
+    margin-left: 20px;
+}
+.titulo2{
+    color:rgb(129, 103, 54) ;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.p3{
+    background-image: url(../imagen/medico1.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.div6{
+    height: 300px;
+    margin-top: 30px;
+    
+}
+.titulo3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20px;
+    filter: drop-shadow(1px 1px 4px black);
+    
+    
+}
+.txt3{
+    color: white;
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.329);
+    margin-top: 20px;
+}
+.bo2{
+    border-radius: 20px;
+    background-color: rgb(129, 103, 54) ;
+    color: white;
+    border:5px solid rgb(129, 103, 54) ;
+    margin-top: 40px;
+    font-size: 15px;
+}
+.img3{
+    border-radius: 20px;
+    
+}
+.omega1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.titulo4{
+    color: rgb(197 169 117);
+    text-align: left;
+    font-size: 25px;
+    margin-top: 20px;
+    
+}
+.titulo5{
+    color: rgb(138, 117, 78);
+    text-align: left;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.g2{
+    margin-left: 30px;
+}
+.g1{
+    margin-left: 400px;
+}
+.img4{
+    margin-left: 10px;
+}
+.titulo6{
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 23px;
+}
+.txt4{
+    color:rgb(138, 117, 78) ;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+.txt5{
+    color:rgb(138, 117, 78) ;
+    font-size: 15px;
+    margin-left: 6px;
+}
+.g3{
+    margin-top: 100px;
+    margin-right: 400px;
+}
+.s4{
+    background: linear-gradient(rgba(0, 0, 0, 0.404) 0 0) ,url(../imagen/background\ s4.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 400px;
+}
+.div7{
+    border-radius: 20px;
+    background-image: url(../imagen/logo\ s41.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 120px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.div8{
+    border-radius: 20px;
+    background-image: url(../imagen/logos42.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 120px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.div9{
+    border-radius: 20px;
+    background-image: url(../imagen/logos43.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 120px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.p5{
+    border-radius: 20px;
+    background-image: url(../imagen/heart\ final\ logo.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 420px;
+    margin-top: 100px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+.titulo7{
+    color: rgb(138, 117, 78);
+    text-align: left;
+    font-size: 45px;
+    margin-top: 30px;
+    text-align: center;
+}
+.txt6{
+    color: white;
+    font-size: 40px;
+    margin-top: 300px;
+    margin-left: 20px;
+}
+.bo3{
+    border-radius: 20px;
+    background-color: rgb(129, 103, 54) ;
+    color: white;
+    border:5px solid rgb(129, 103, 54) ;
+    margin-top: 10px;
+    font-size: 35px;
+    margin-left: 878px;
+    margin-bottom: 20px;
+}
+.p6{
+    border-radius: 20px;
+    background-image: url(../imagen/pessoas\ reunidas\ pagina\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 420px;
+    margin-top: 100px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+.p7{
+    border-radius: 20px;
+    background-image: url(../imagen/pessoa\ recebendo\ soro\ pagina\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 420px;
+    margin-top: 100px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+.p30{
+    background-image: url(../imagen/img1\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p31{
+    background-image: url(../imagen/img2\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p32{
+    background-image: url(../imagen/img3\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p33{
+    background-image: url(../imagen/img\ 4\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p34{
+    background-image: url(../imagen/img\ 5\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p35{
+    background-image: url(../imagen/img\ 6\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p36{
+    background-image: url(../imagen/img7\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p37{
+    background-image: url(../imagen/img\ 8\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p38{
+    background-image: url(../imagen/img\ 9\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p39{
+    background-image: url(../imagen/img10\ index.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p300{
+    background-image: url(../imagen/img\ 11\ index.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p301{
+    background-image: url(../imagen/medico1.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p3002{
+    background-image: url(../imagen/medico1.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
