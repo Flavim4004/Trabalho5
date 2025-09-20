@@ -1,0 +1,350 @@
+li{
+    display: inline-block;
+    color: rgb(251, 255, 0);
+    font-size: 25px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+nav{
+    background-color: rgb(40, 9, 177);
+    border: 5px solid rgb(229, 255, 0);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contato{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(255, 238, 0);
+    font-family: fantasy;
+}
+
+
+.contato h1{
+    color: rgb(238, 255, 0);
+    font-weight: bold;
+}
+.titulo{
+    color: rgb(238, 255, 0);
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.a01{
+    background-image: url(../imagen/star-wars-backgrounds-2Door.jpeg);
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.div02{
+    background-image: url(../imagen/taxa.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 100%;
+}
+.b1{
+    font-size: 30px;
+    margin-left: -500;
+    margin-top: 40px;
+}
+.img01{
+    border-radius: 30px;
+}
+.div1{
+    background-color: rgb(28, 62, 255) ;
+}
+.div2{
+    background-color:rgb(145, 156, 255) ;
+}
+.div3{
+    background-color:rgb(54, 181, 255) ;
+}
+.img1{
+    margin-top: 30px;
+    width: 400px;
+    height: 200px;
+}
+body{
+    color: rgb(230, 255, 1);
+    background-color: rgb(0, 0, 0);
+}
+.titulo1{
+    margin-top: 20px;
+    color:rgb(251, 255, 0) ;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.p1{
+    background-image: url(../imagen/Droid\ \(1\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p2{
+    background-image: url(../imagen/Droid\ \(2\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p3{
+    background-image: url(../imagen/Droid\ \(3\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p4{
+    background-image: url(../imagen/Droid\ \(4\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p5{
+    background-image: url(../imagen/Droid\ \(5\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p6{
+    background-image: url(../imagen/Droid\ \(6\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p7{
+    background-image: url(../imagen/Droid\ \(7\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p8{
+    background-image: url(../imagen/Droid\ \(8\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p9{
+    background-image: url(../imagen/Droid\ \(9\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p10{
+    background-image: url(../imagen/Droid\ \(10\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p11{
+    background-image: url(../imagen/Droid\ \(11\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p12{
+    background-image: url(../imagen/Droid\ \(12\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p13{
+    background-image: url(../imagen/Droid\ \(13\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p14{
+    background-image: url(../imagen/Droid\ \(14\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p15{
+    background-image: url(../imagen/Droid\ \(15\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p16{
+    background-image: url(../imagen/Droid\ \(16\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p17{
+    background-image: url(../imagen/Droid\ \(17\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p18{
+    background-image: url(../imagen/Droid\ \(18\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p19{
+    background-image: url(../imagen/Droid\ \(19\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.p20{
+    background-image: url(../imagen/Droid\ \(20\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    margin-left: 120px;
+}
+.G2{
+    height: 400px;
+}
+.p21{
+    background-image: url(../imagen/Droid\ \(21\).png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    border: 5px solid rgb(197 169 117);
+    height: 240px;
+    width: 350px;
+    margin-left: 800px;
+    margin-bottom: 40px;
+}
+.foco{
+    z-index: 2;
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    background-color: rgba(0, 0, 0, 0.486);
+    display: none;
+}
+.foco img{
+    margin-top: 400;
+    margin-left: 30%;
+    width: 40%;
+    height: 40%;
+    z-index: 3;
+}
+#foco1:target{
+    display: block;
+}
+#foco2:target{
+    display: block;
+}
+#foco3:target{
+    display: block;
+}
+#foco4:target{
+    display: block;
+}
+#foco5:target{
+    display: block;
+}
+#foco6:target{
+    display: block;
+}
+#foco7:target{
+    display: block;
+}
+#foco8:target{
+    display: block;
+}
+#foco9:target{
+    display: block;
+}
+#foco10:target{
+    display: block;
+}
+#foco11:target{
+    display: block;
+}
+#foco12:target{
+    display: block;
+}
+#foco13:target{
+    display: block;
+}
+#foco14:target{
+    display: block;
+}
+#foco15:target{
+    display: block;
+}
+#foco16:target{
+    display: block;
+}
+#foco17:target{
+    display: block;
+}
+#foco18:target{
+    display: block;
+}
+#foco19:target{
+    display: block;
+}
+#foco20:target{
+    display: block;
+}
+#foco21:target{
+    display: block;
+}

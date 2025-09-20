@@ -1,0 +1,406 @@
+
+li{
+    display: inline-block;
+    color: rgb(251, 255, 0);
+    font-size: 25px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+nav{
+    background-color: rgb(40, 9, 177);
+    border: 5px solid rgb(229, 255, 0);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contato{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(255, 238, 0);
+    font-family: fantasy;
+}
+
+
+.contato h1{
+    color: rgb(238, 255, 0);
+    font-weight: bold;
+}
+.titulo{
+    color: rgb(238, 255, 0);
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.a01{
+    background-image: url(../imagen/star-wars-backgrounds-2Door.jpeg);
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.div02{
+    background-image: url(../imagen/taxa.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 100%;
+}
+.b1{
+    font-size: 30px;
+    margin-left: -500;
+    margin-top: 40px;
+}
+.img01{
+    border-radius: 30px;
+}
+.div1{
+    background-color: rgb(28, 62, 255) ;
+}
+.div2{
+    background-color:rgb(145, 156, 255) ;
+}
+.div3{
+    background-color:rgb(54, 181, 255) ;
+}
+.img1{
+    margin-top: 30px;
+    width: 400px;
+    height: 200px;
+}
+body{
+    color: rgb(230, 255, 1);
+    background-color: rgb(0, 0, 0);
+}
+.div4{
+    height: 100%;
+    width: 100%;
+    background-image:url(../imagen/destroyer\ primeira\ orden.jpeg) ;
+    background-size: cover;
+    background-size: 100% 100%;
+}
+.div5{
+    background-color:rgb(25, 0, 255) ;
+}
+.titulo1{
+    color: rgb(229, 255, 0);
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+}
+.txt1{
+    color: rgb(208, 255, 0);
+    font-size: 25px;
+}
+.txt2{
+    color: rgb(217, 255, 0);
+    font-size: 25px;
+    margin-top: 40px;
+}
+.bo1{
+    color: rgb(229, 255, 0);
+    background-color:rgb(76, 0, 255) ;
+    border-radius: 10px;
+    border: 4px solid white;
+    font-size: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.p1{
+    margin-left: 300px;
+}
+.img2{
+    border-radius: 30px;
+    margin-top: 20px ;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    height: 400px;
+}
+.titulo2{
+    color:rgb(255, 251, 0) ;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 20px;
+    text-transform: uppercase;
+}
+.p3{
+    background-image: url(../imagen/Imperial_Stormtrooper.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+    
+}
+.div6{
+    height: 300px;
+    margin-top: 30px;
+    
+}
+.titulo3{
+    color:yellow;
+    text-align: center;
+    font-size: 35px;
+    margin-top: 20px;
+    filter: drop-shadow(1px 1px 4px black);
+    
+    
+}
+.txt3{
+    color:yellow;
+    font-size: 25px;
+    background-color: rgba(0, 0, 0, 0.329);
+    margin-top: 20px;
+}
+.bo2{
+    border-radius: 20px;
+    background-color: rgb(0, 17, 255) ;
+    color: rgb(251, 255, 0);
+    border:5px solid rgb(47, 0, 255) ;
+    margin-top: 40px;
+    font-size: 15px;
+    font-family: fantasy;
+}
+.img3{
+    border-radius: 20px;
+    width: 500px;
+    height: 300px;
+    
+}
+.omega1{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.titulo4{
+    color: rgb(229, 255, 0);
+    text-align: left;
+    font-size: 25px;
+    margin-top: 20px;
+    
+}
+.titulo5{
+    color: rgb(255, 238, 0);
+    text-align: left;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.g2{
+    margin-left: 30px;
+}
+.g1{
+    margin-left: 400px;
+}
+.img4{
+    margin-left: 10px;
+}
+.titulo6{
+    margin-left: 5px;
+    margin-top: 5px;
+    font-size: 23px;
+}
+.txt4{
+    color:rgb(238, 255, 0) ;
+    font-size: 15px;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+.txt5{
+    color:rgb(217, 255, 0) ;
+    font-size: 15px;
+    margin-left: 6px;
+}
+.g3{
+    margin-top: 100px;
+    margin-right: 400px;
+}
+.s4{
+    background: linear-gradient(rgba(0, 0, 0, 0.404) 0 0) ,url(../imagen/imperial-walkers-star-wars.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 400px;
+}
+.div7{
+    border-radius: 20px;
+    background-image: url(../imagen/ISB.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 120px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.div8{
+    border-radius: 20px;
+    background-image: url(../imagen/imperiallogo.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 120px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.div9{
+    border-radius: 20px;
+    background-image: url(../imagen/imperiallogo2.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 120px;
+    margin-top: 150px;
+    margin-left: 100px;
+}
+.p5{
+    border-radius: 20px;
+    background-image: url(../imagen/star\ destroyer.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 420px;
+    margin-top: 100px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+.titulo7{
+    color: rgb(251, 255, 0);
+    text-align: left;
+    font-size: 45px;
+    margin-top: 30px;
+    text-align: center;
+}
+.txt6{
+    color: rgb(208, 255, 0);
+    font-size: 30px;
+    margin-top: 300px;
+    margin-left: 20px;
+    flex-wrap: wrap;
+    
+}
+.bo3{
+    border-radius: 20px;
+    background-color: rgb(17, 0, 255) ;
+    color: rgb(255, 251, 0);
+    border:5px solid rgb(68, 0, 255) ;
+    margin-top: 10px;
+    font-size: 35px;
+    margin-left: 878px;
+    margin-bottom: 20px;
+}
+.p6{
+    border-radius: 20px;
+    background-image: url(../imagen/soldados-imperiales-en-star-wars-1721.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 420px;
+    margin-top: 100px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+.p7{
+    border-radius: 20px;
+    background-image: url(../imagen/ATsT.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 420px;
+    margin-top: 100px;
+    margin-left: 125px;
+    margin-bottom: 40px;
+}
+.p30{
+    background-image: url(../imagen/Stormtooper2.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+    
+}
+.p31{
+    background-image: url(../imagen/Stromtrooper.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p32{
+    background-image: url(../imagen/Stromtrooper4.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p33{
+    background-image: url(../imagen/Stromtrooper5.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p34{
+    background-image: url(../imagen/Stromtrooper6.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p35{
+    background-image: url(../imagen/Stromtrooper7.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p36{
+    background-image: url(../imagen/Stromtrooper8.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p37{
+    background-image: url(../imagen/Stromtrooper9.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p38{
+    background-image: url(../imagen/Stromtrooper14.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p39{
+    background-image: url(../imagen/Stromtrooper11.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p300{
+    background-image: url(../imagen/Stromtrooper12.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p301{
+    background-image: url(../imagen/Stromtrooper13.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}
+.p3002{
+    background-image: url(../imagen/medico1.png);
+    background-size: cover;
+    background-size: 100% 100%;
+    border-radius: 20px;
+    width: 250px;
+    margin-left: 180px;
+}

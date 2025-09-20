@@ -1,0 +1,174 @@
+li{
+    display: inline-block;
+    color: rgb(251, 255, 0);
+    font-size: 25px;
+    margin-right: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    
+}
+nav{
+    background-color: rgb(40, 9, 177);
+    border: 5px solid rgb(229, 255, 0);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.contato{
+    text-align: left;
+    font-size: 20px;
+    color: rgb(255, 238, 0);
+    font-family: fantasy;
+}
+
+
+.contato h1{
+    color: rgb(238, 255, 0);
+    font-weight: bold;
+}
+.titulo{
+    color: rgb(238, 255, 0);
+    font-size: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.a01{
+    background-image: url(../imagen/star-wars-backgrounds-2Door.jpeg);
+    background-size: cover;
+    background-size: 100% 100%;
+}
+
+.div02{
+    background-image: url(../imagen/taxa.jpg);
+    background-size: cover;
+    background-size: 100% 100%;
+    height: 100%;
+}
+.b1{
+    font-size: 30px;
+    margin-left: -500;
+    margin-top: 40px;
+}
+.img01{
+    border-radius: 30px;
+}
+.div1{
+    background-color: rgb(28, 62, 255) ;
+}
+.div2{
+    background-color:rgb(145, 156, 255) ;
+}
+.div3{
+    background-color:rgb(54, 181, 255) ;
+}
+.img1{
+    margin-top: 30px;
+    width: 400px;
+    height: 200px;
+}
+body{
+    color: rgb(230, 255, 1);
+    background-color: rgb(0, 0, 0);
+}
+.titulo1{
+    margin-top: 20px;
+    color:rgb(251, 255, 0) ;
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+.subt1{
+    color: rgb(229, 255, 0);
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.titulo2{
+    margin-top: 20px;
+    color:rgb(255, 251, 0) ;
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+.p1{
+    border-radius: 20px;
+    background-color: rgb(25, 0, 255);
+    width: 400px;
+    height: 600px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.img2{
+    border-radius: 10px;
+    width: 350px;
+    height: 300px;
+    
+}
+.subt2{
+    color: rgb(255, 230, 0);
+    font-size: 30px;
+    margin-top: 30px;
+    font-family: fantasy;
+}
+.subt3{
+    color: rgb(229, 255, 0);
+    font-size: 25px;
+    margin-top: 20px;
+}
+.bo1{
+    color: rgb(238, 255, 0);
+    border-radius: 10px;
+    border: 10px solid rgb(0, 0, 0);
+    background-color: rgb(0, 4, 255);
+    font-size: 20px;
+    margin-top: 30px;
+    display: block;
+    width: fit-content;
+    margin-inline: auto;
+}
+.dive1{
+    background-color: rgb(0, 17, 255);
+    border-radius: 20px;
+    padding: 16px;
+    gap:16px;
+
+}
+.botao1{
+    display: block;
+}
+.preto{
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.295);
+    z-index: 2;
+    align-items: center;
+    justify-content: center;
+    display: none;
+}
+.preto h1{
+    color: rgb(255, 251, 0);
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    font-family: fantasy;
+}
+.preto h4{
+    margin-top: 30px;
+}
+.preto a{
+    background-color: rgb(0, 0, 0);
+    color: rgb(251, 255, 0);
+    width: fit-content;
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.preto:target{
+    display: flex;
+}
+.pe2{
+    flex-wrap: wrap;
+}
+.preto img{
+    width: 350px;
+    height: 300px;
+}
